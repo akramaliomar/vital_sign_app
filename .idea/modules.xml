@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../EmergencyRasaProject/.idea/EmergencyRasaProject.iml" filepath="$PROJECT_DIR$/../EmergencyRasaProject/.idea/EmergencyRasaProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MachineLearning/directory_env/ML/.idea/ML.iml" filepath="$PROJECT_DIR$/../MachineLearning/directory_env/ML/.idea/ML.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MachineLearning/directory_env/ML2/.idea/ML2.iml" filepath="$PROJECT_DIR$/../MachineLearning/directory_env/ML2/.idea/ML2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../chatbotChannel/.idea/chatbotChannel.iml" filepath="$PROJECT_DIR$/../chatbotChannel/.idea/chatbotChannel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonProject1/.idea/pythonProject1.iml" filepath="$PROJECT_DIR$/../pythonProject1/.idea/pythonProject1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../rasa-rest-api/.idea/rasa-rest-api.iml" filepath="$PROJECT_DIR$/../rasa-rest-api/.idea/rasa-rest-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../rasarestapi/.idea/rasarestapi.iml" filepath="$PROJECT_DIR$/../rasarestapi/.idea/rasarestapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/restful-api-python.iml" filepath="$PROJECT_DIR$/.idea/restful-api-python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../weather/.idea/weather.iml" filepath="$PROJECT_DIR$/../weather/.idea/weather.iml" />
+    </modules>
+  </component>
+</project>
